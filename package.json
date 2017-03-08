@@ -16,7 +16,8 @@
     "trailjs"
   ],
   "dependencies": {
-    "trailpack": "latest"
+    "trailpack": "latest",
+    "trails-model": "^2.0.1"
   },
   "devDependencies": {
     "lodash": "^4.11.1",
